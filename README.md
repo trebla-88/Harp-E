@@ -7,6 +7,6 @@
 
 
 ### Crédits
-**Léo Alonzo** ~ Game Character Designer, Sprites Designer, Developper, Object Designer, Map Maker
+**Léo Alonzo ([LeoAlonzoTN](https://www.github.com/LeoAlonzoTN))** ~ Game Character Designer, Sprites Designer, Developper, Object Designer, Map Maker
 
 **Albert Becquet** ~ Animation Designer, Sprites Designer, Developper, Object Designer, Map Maker
